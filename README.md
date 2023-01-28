@@ -11,7 +11,7 @@ Visit the **REACT** UI on [**NETLIFY**](https://courageous-swan-58d1c8.netlify.a
 
 ![logo](./public/logoWealthHealth.jpg)
 
-# Convert [HRNet jQuery app](https://github.com/git504/P12_Front-end) to a React application
+# Convert [HRNet jQuery app] to a React application
 
 ## 🔖 app issues
 
