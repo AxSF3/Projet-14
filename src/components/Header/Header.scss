@@ -1,0 +1,12 @@
+@use "../../assets/sass/global.scss" as *;
+
+// if not @use ... as *
+
+// p {
+//   color: global.$black;
+//   font-family: global.$ff-primary;
+// }
+
+.navbar-collapse {
+  align-content: flex-end;
+}

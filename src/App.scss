@@ -1,0 +1,15 @@
+@use "./assets/sass/global.scss" as *;
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
+@import "custom";
+
+.container-fluid {
+  font-family: $ff-primary;
+  color: $black;
+}
+
+.HR {
+  color: $tertiary-color;
+  font-size: $fs-300;
+}
