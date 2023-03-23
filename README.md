@@ -38,7 +38,7 @@ Visit the **REACT** UI on [**NETLIFY**](https://courageous-swan-58d1c8.netlify.a
 - [react-datepicker](https://react-bootstrap.github.io/forms/overview/) : A simple react-bootstrap date picker component
 - [react-select](https://react-bootstrap.github.io/forms/overview/) : A simple react-bootstrap select dropdown component
 
-✅ [**NPM PACKAGE - RetroAppleInspiredModal**](https://www.npmjs.com/package/modal-celestin?activeTab=readme) : A small but functional retro Apple-inspired React modal
+✅ [**NPM PACKAGE - Modal**](https://www.npmjs.com/package/modal-celestin?activeTab=readme) : Modal Project 14
 
 ---
 
