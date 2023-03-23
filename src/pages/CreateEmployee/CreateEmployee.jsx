@@ -9,7 +9,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 
-import { RetroAppleInspiredModal } from "retro-apple-inspired-react-modal";
+import { Modal } from "modal-celestin";
 
 import MOCK_STATES_USA_ONLY from "../../data/MOCK_STATES_USA_ONLY.json";
 import MOCK_DEPARTMENT from "../../data/MOCK_DEPARTMENT.json";
@@ -78,7 +78,7 @@ function CreateEmployee() {
   };
 
   const customText =
-    "Standard alert box.";
+    "Employee created.";
 
   const customIcone = <p>🛎️</p>;
 
@@ -252,7 +252,7 @@ function CreateEmployee() {
         </Col>
       </Container>
 
-      <RetroAppleInspiredModal
+      <Modal
         openModal={openModal}
         setOpenModal={setOpenModal}
         customText={customText}
